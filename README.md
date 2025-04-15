@@ -16,7 +16,7 @@ A ideia é controlar tudo que envolve a creche, como:
 
 Também coloquei algumas ideias futuras que pretendo implementar, tipo controle de estoque, histórico de presença, e até restrições com triggers.
 
- **Obs:** Até o momento, ainda não comecei a parte física do banco
+
 
  ## Índice
 

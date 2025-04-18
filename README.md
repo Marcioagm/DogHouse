@@ -1,6 +1,6 @@
 # Projeto DogHouse - Banco de Dados para Creche de Cães
 
-Este é meu primeiro projeto após estudar aulas online sobre banco de dados.  
+Este é meu primeiro projeto após estudar aulas online gratuitas sobre banco de dados.  
 Criei um sistema de banco de dados para uma creche de cachorros, com o objetivo de treinar modelagem conceitual, lógica, física, normalização e escrita de consultas SQL.
 
 ---
